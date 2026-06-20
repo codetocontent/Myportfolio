@@ -29,7 +29,7 @@ export default function Contact() {
         </p>
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', marginBottom: '36px' }}>
-          <a href="mailto:asulaiman1411@gmail.com" style={{
+          <a href="mailto:abdulhameedabdullahisulaiman@gmail.com" style={{
             display: 'inline-flex', alignItems: 'center', gap: '10px',
             fontFamily: 'JetBrains Mono, monospace',
             fontSize: '13px',
@@ -41,7 +41,7 @@ export default function Contact() {
           onMouseLeave={e => (e.currentTarget.style.color = 'var(--text)')}
           >
             <Mail size={14} style={{ color: 'var(--accent)' }} />
-            asulaiman1411@gmail.com
+            abdulhameedabdullahisulaiman@gmail.com
           </a>
         </div>
 
